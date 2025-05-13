@@ -1,0 +1,22 @@
+# Java
+*.class
+
+# Maven / Gradle
+target/
+build/
+
+# IntelliJ / VSCode
+.idea/
+*.iml
+.vscode/
+
+# Environment
+.env
+*.log
+
+# OS
+.DS_Store
+
+# Application Secrets (optional safety)
+application.properties
+application.yml
